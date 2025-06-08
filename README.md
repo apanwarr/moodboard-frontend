@@ -1,4 +1,4 @@
-MoodBoard Frontend
+<h2>MoodBoard Frontend</h2>
 
 MoodBoard Frontend is a simple web application that allows users to express and track their mood by selecting quotes or phrases that reflect how they feel.
 It is built with React.js and fetches quotes dynamically from an API.
