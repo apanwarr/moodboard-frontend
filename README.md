@@ -1,12 +1,51 @@
-# React + Vite
+MoodBoard Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+MoodBoard Frontend is a simple web application that allows users to express and track their mood by selecting quotes or phrases that reflect how they feel.
+It is built with React.js and fetches quotes dynamically from an API.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Fetches inspirational quotes from a public API
+Displays quotes in a simple, clean UI
+Allows users to save or share mood-related quotes
+Responsive design for mobile and desktop
 
-## Expanding the ESLint configuration
+Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React.js
+JavaScript (ES6+)
+HTML5
+CSS3 + TypeScript
+Vite (for fast project setup and development)
+GitHub for version control
+
+Installation
+
+1. Clone the repository:
+
+git clone https://github.com/apanwarr/moodboard-frontend.git
+
+2. Navigate to the project directory:
+
+cd moodboard-frontend
+
+3. Install dependencies:
+
+npm install or npm i
+
+4. Run the application:
+
+npm run dev
+The app will be available at http://localhost:5173
+
+Deployment
+
+Vercel : 
+
+Contributing
+
+Contributions are welcome! If you'd like to improve the app, feel free to fork the repo and submit a pull request.
+
+License
+
+This project is licensed under the MIT License
