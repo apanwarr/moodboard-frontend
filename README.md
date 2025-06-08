@@ -21,6 +21,12 @@ CSS3 + TypeScript
 Vite (for fast project setup and development)
 GitHub for version control
 
+### Quotes / API Used
+
+This project uses the Quotes API from https://github.com/well300/quotes-api.git.
+link : https://quotes-api-self.vercel.app/quote
+Thanks to the author for making it available publicly.
+
 Installation
 
 1. Clone the repository:
